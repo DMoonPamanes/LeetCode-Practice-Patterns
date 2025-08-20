@@ -2,9 +2,9 @@
 
 A categorized list of LeetCode problems following common coding interview patterns divided by topics.
 
-## Relevant Video and Articles
+## Relevant Videos and Articles
 
- * [14 LeetCode Patterns](https://www.blog.codeinmotion.io/p/leetcode-patterns/)
+ * [Fourteen LeetCode Patterns](https://www.blog.codeinmotion.io/p/leetcode-patterns/)
 
 ---
 
