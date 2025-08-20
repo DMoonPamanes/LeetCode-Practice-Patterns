@@ -5,6 +5,7 @@ A categorized list of LeetCode problems following common coding interview patter
 ## Relevant Videos and Articles
 
  * [Fourteen LeetCode Patterns](https://www.blog.codeinmotion.io/p/leetcode-patterns/)
+ * [Every Data Structure, 70 LeetCode Problems](https://youtu.be/lvO88XxNAzs?si=Ma6-S4PzqDMaxvPZ/)
 
 ---
 
