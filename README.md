@@ -4,7 +4,7 @@ A categorized list of LeetCode problems following common coding interview patter
 
 ## Relevant Video and Articles
 
-[14 LeetCode Patterns](https://www.blog.codeinmotion.io/p/leetcode-patterns/)
+ * [14 LeetCode Patterns](https://www.blog.codeinmotion.io/p/leetcode-patterns/)
 
 ---
 
