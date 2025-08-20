@@ -2,6 +2,10 @@
 
 A categorized list of LeetCode problems following common coding interview patterns divided by topics.
 
+## Relevant Video and Articles
+
+[14 LeetCode Patterns](https://www.blog.codeinmotion.io/p/leetcode-patterns/)
+
 ---
 
 ## Pattern: Sliding Window
@@ -78,7 +82,7 @@ A categorized list of LeetCode problems following common coding interview patter
 - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [ ] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [ ] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)  # Close
-- [ ] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  # Close
+- [ ] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ---
@@ -117,7 +121,6 @@ A categorized list of LeetCode problems following common coding interview patter
 
 ## Pattern: Modified Binary Search
 - [ ] [Binary Search](https://leetcode.com/problems/binary-search/)  # Close enough
-- [ ] *(No exact equivalent: index of smallest element >= target)*
 - [ ] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [ ] [Find First and Last Position of Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
@@ -144,7 +147,7 @@ A categorized list of LeetCode problems following common coding interview patter
 - [ ] [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)
 - [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
 - [ ] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
-- [ ] [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) *(closest)*
+- [ ] [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)
 - [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/)
 - [ ] [Rearrange String K Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/)
 - [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
@@ -165,7 +168,7 @@ A categorized list of LeetCode problems following common coding interview patter
 - [ ] [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/)
 - [ ] [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)
 - [ ] [Target Sum](https://leetcode.com/problems/target-sum/)
-- [ ] [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) *(bonus)*
+- [ ] [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)
 
 ---
 
