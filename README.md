@@ -1,12 +1,11 @@
 # LeetCode Patterns Checklist
 
-A categorized list of LeetCode (and some external) problems following common coding interview patterns.  
-Each problem name is a clickable link. Check them off as you solve them ✅
+A categorized list of LeetCode problems following common coding interview patterns divided by topics.
 
 ---
 
 ## Pattern: Sliding Window
-- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)  # Close enough
+- [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [ ] [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 - [ ] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
@@ -51,7 +50,6 @@ Each problem name is a clickable link. Check them off as you solve them ✅
 - [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 - [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
-- [ ] *(No exact equivalent: Given intervals with values, find peak sum if overlapping)*
 - [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
 
 ---
@@ -70,7 +68,6 @@ Each problem name is a clickable link. Check them off as you solve them ✅
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [ ] [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 - [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
-- [ ] *(Variation: alternate subgroups)*
 - [ ] [Rotate List](https://leetcode.com/problems/rotate-list/)
 
 ---
@@ -82,7 +79,6 @@ Each problem name is a clickable link. Check them off as you solve them ✅
 - [ ] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [ ] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)  # Close
 - [ ] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  # Close
-- [ ] *(Variation: connect end nodes across levels)*
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ---
@@ -129,7 +125,6 @@ Each problem name is a clickable link. Check them off as you solve them ✅
 - [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [ ] [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [ ] *(Variation: number of rotations in rotated array)*
 
 ---
 
