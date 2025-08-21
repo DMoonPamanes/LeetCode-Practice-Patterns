@@ -2,7 +2,7 @@
 
 A categorized list of LeetCode problems following common coding interview patterns divided by topics.
 
-To be able to check the boxes and track progress, fork the repostiry and mark and 'X' on solved questions.
+To be able to check the boxes and track progress, fork the repostiry and mark an 'X' on solved questions.
 
 - [ ] Not Solved
 - [x] Solved
