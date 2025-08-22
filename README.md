@@ -87,7 +87,7 @@ To be able to check the boxes and track progress, fork the repostiry and mark an
 - [ ] [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [ ] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
-- [ ] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)  # Close
+- [ ] [Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)
 - [ ] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)
 - [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
