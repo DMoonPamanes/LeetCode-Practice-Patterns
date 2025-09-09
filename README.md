@@ -126,7 +126,7 @@ To be able to check the boxes and track progress, fork the repostiry and mark an
 ---
 
 ## Pattern: Modified Binary Search
-- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)  # Close enough
+- [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [ ] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [ ] [Find First and Last Position of Element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ ] [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)
